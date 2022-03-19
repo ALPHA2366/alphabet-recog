@@ -1,1 +1,1 @@
-# alphabet-recog
+# PRO-C123-ALPHABET-DETECTION
